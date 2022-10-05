@@ -1,4 +1,4 @@
-public class mükemmelSayilar {
+public class mukemmelSayilar {
     public static void main(String[] args) {
         // 6-> 1,2,3
         int number = 26;
